@@ -1,5 +1,4 @@
 # CommitmentBank-Prosody
-# CommitmentBank
 
 The repository contains the materials related to the paper:
 
